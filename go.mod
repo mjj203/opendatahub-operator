@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	cloud.google.com/go/container v1.9.0
-	github.com/aws/aws-sdk-go v1.34.9
+	github.com/aws/aws-sdk-go v1.44.122
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/deckarep/golang-set v1.8.0
 	github.com/ghodss/yaml v1.0.0
@@ -13,8 +13,8 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/golangplus/testing v1.0.0
 	github.com/google/go-cmp v0.5.9
-	github.com/hashicorp/go-getter v1.6.2
-	github.com/hashicorp/go-version v1.2.0
+	github.com/hashicorp/go-getter v1.7.0
+	github.com/hashicorp/go-version v1.6.0
 	github.com/imdario/mergo v0.3.12
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.22.0
@@ -30,7 +30,7 @@ require (
 	github.com/tidwall/gjson v1.14.4
 	golang.org/x/crypto v0.1.0
 	golang.org/x/net v0.3.1-0.20221206200815-1e63c2f08a10
-	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
+	golang.org/x/oauth2 v0.1.0
 	google.golang.org/api v0.103.0
 	google.golang.org/genproto v0.0.0-20221201164419-0e50fba7f41c
 	k8s.io/api v0.26.0
@@ -96,12 +96,12 @@ require (
 	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.13.6 // indirect
+	github.com/klauspost/compress v1.15.11 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
-	github.com/mitchellh/go-testing-interface v1.0.0 // indirect
+	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/moby/spdystream v0.2.0 // indirect
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
@@ -119,7 +119,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	github.com/ulikunitz/xz v0.5.8 // indirect
+	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
